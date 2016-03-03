@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintibellisacri00rhuoft_0259.png"; bbox 0 0 1624 2788; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 191 830 949 1010">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 191 830 949 1010">
+     <span class='ocr_line' id='line_1_1' title="bbox 238 830 747 909; baseline 0.002 -35"><span class='ocrx_word' id='word_1_1' title='bbox 238 900 241 909; x_wconf 30' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 652 830 747 876; x_wconf 91' lang='lat' dir='ltr'>V111</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 191 933 949 1010; baseline -0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 191 995 195 1002; x_wconf 91' lang='lat'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 240 933 248 1004; x_wconf 78' lang='grc' dir='ltr'>ἶ.</span> <span class='ocrx_word' id='word_1_5' title='bbox 454 955 949 1010; x_wconf 78' lang='lat' dir='ltr'>PROPHETIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 199 1045 1153 1159">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 192 1045 1153 1170">
+     <span class='ocr_line' id='line_1_3' title="bbox 517 1045 871 1071; baseline -0.006 0"><span class='ocrx_word' id='word_1_6' title='bbox 517 1045 691 1071; x_wconf 65' lang='lat' dir='ltr'><strong>mosum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 705 1045 871 1070; x_wconf 70' lang='lat' dir='ltr'>ARABICAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 199 1098 1153 1159; baseline -0.005 -13.036"><span class='ocrx_word' id='word_1_8' title='bbox 192 1098 223 1170; x_wconf 40' lang='lat'>³*-</span> <span class='ocrx_word' id='word_1_9' title='bbox 235 1111 284 1147; x_wconf 68' lang='grc'>117</span> <span class='ocrx_word' id='word_1_10' title='bbox 295 1111 508 1154; x_wconf 61' lang='lat' dir='ltr'>utrumnum</span> <span class='ocrx_word' id='word_1_11' title='bbox 515 1117 651 1145; x_wconf 62' lang='lat' dir='ltr'><em>camus</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 659 1115 755 1144; x_wconf 77' lang='lat' dir='ltr'>Am</span> <span class='ocrx_word' id='word_1_13' title='bbox 763 1116 967 1144; x_wconf 71' lang='lat' dir='ltr'>namnam</span> <span class='ocrx_word' id='word_1_14' title='bbox 977 1114 1153 1142; x_wconf 65' lang='lat' dir='ltr'>romans</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 529 1187 856 1238">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 529 1187 856 1238">
+     <span class='ocr_line' id='line_1_5' title="bbox 529 1187 856 1238; baseline -0.009 -11"><span class='ocrx_word' id='word_1_15' title='bbox 529 1187 631 1227; x_wconf 68' lang='lat' dir='ltr'>ven-fio</span> <span class='ocrx_word' id='word_1_16' title='bbox 646 1187 856 1238; x_wconf 82' lang='lat' dir='ltr'>quadruplex.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 312 2788">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 312 2788">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 312 2788; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 312 2788; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
